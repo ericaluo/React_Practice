@@ -1,8 +1,10 @@
+
+# This is a storage for react practicing project
+# Missing node_modules folder because of the github desktop upload issue.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-##This is a storage for react practicing project
 
 ## Available Scripts
 
